@@ -27,7 +27,6 @@ public void mousePressed()
 	{
 		smallestBranch = 200;	
 	}
-	System.out.println(smallestBranch);
 	redraw();	
 }
 
